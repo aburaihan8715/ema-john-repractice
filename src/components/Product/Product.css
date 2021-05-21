@@ -1,0 +1,26 @@
+.pd_wrapper{
+    display: flex;
+    border-bottom: 1px solid #D3D3D3;
+    margin-right: 5px;
+    margin-left: 15%;
+    padding-bottom: 5px;
+}
+
+.pd_details{
+    margin-left: 20px;
+}
+.pd_name{
+    color: #0000ff;
+    font-weight: 400;
+    font-size: 16px;
+    
+}
+
+.main_btn{
+    width: 200px;
+    height: 25px;
+    border: 1px solid #A88734;
+    background-color: #F0C14B;
+    border-radius: 3px;
+    cursor: pointer;
+}

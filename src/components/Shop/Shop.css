@@ -1,0 +1,13 @@
+.shop_wrapper{
+    display: flex;
+}
+
+
+.product{
+    width: 80%;
+    border-right: 1px solid #D3D3D3;
+}
+
+.cart{
+    width: 20%;
+}
